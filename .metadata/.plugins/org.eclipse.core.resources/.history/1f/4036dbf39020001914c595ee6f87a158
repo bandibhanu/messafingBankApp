@@ -1,0 +1,3 @@
+server.port=3251
+
+spring.application.name=eureka
